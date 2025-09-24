@@ -1,3 +1,4 @@
+import React from "react"
 function WeatherDisplay({weatherInfo}){
     const weatherColor=weatherInfo.temperature >20 ?"red":"blue"
     return(
