@@ -1,5 +1,6 @@
 
 import React, {useState} from "react";
+import WeatherDisplay from "./WeatherDisplay"
 import './../styles/App.css';
 
 const App = () => {
